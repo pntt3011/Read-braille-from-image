@@ -1,4 +1,4 @@
-Help a friend reading brailles in an images using CNN model.
+Help a friend reading brailles in an image using CNN model.
 ![image](goal.png)
 <!-- .element height="10%" width="10%" -->
 Dataset:
